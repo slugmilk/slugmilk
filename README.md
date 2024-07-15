@@ -48,3 +48,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=slugmilk&theme=onedark&bg_color=20232a&hide_border=true&line=ff8daa&color=ffc0d0" width=94%/>
 </a>
 </div>
+
+![snake gif](https://github.com/slugmilk/slugmilk/blob/output/github-contribution-grid-snake.svg)
