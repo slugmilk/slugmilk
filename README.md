@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/csharp-#00599C?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/csharp-00599C?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
