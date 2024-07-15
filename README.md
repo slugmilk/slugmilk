@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ffc0d0&height=300&section=header&text=Hi%20I'm%20Yoomin!&fontSize=90&fontColor=000000&stroke=ffc0d0"/>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slugmilk&layout=donut&show_icons=true&theme=onedark&hide_border=true&bg_color=20232a&icon_color=ffc0d0&text_color=fff&title_color=ffc0d0&count_private=true&exclude_repo=Study_Unity" width=38% />
 </a>    
