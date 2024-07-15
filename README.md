@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ffc0d0&height=300&section=header&text=Hi%I'm%Yoomin!&fontSize=90&fontColor=fff&stroke=ffc0d0"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ffc0d0&height=300&section=header&text=Hi%I'm%Yoomin!&fontSize=90&fontColor=000000&stroke=ffc0d0"/>
 
 ## 👋 HELLO WORLD!
 
