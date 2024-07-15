@@ -30,9 +30,10 @@
 <br>
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
-  <a href="https://velog.io/@slugmilk"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/d_kijx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kelly021203@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://velog.io/@slugmilk"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@@slugmilk"/></a>&nbsp
+  <a href="https://www.instagram.com/d_kijx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_kijx/"/></a>&nbsp
+  <a href="https://slugmilk.notion.site/3db877b1622449a5b101e72328ebf8cc"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://slugmilk.notion.site/3db877b1622449a5b101e72328ebf8cc"/></a>&nbsp
+  <a href="mailto:kelly021203@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kelly021203@gmail.com"/></a>
 </div>
 <br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
