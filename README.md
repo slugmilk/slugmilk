@@ -10,15 +10,22 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-  <br>
+  #47A248
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Csharp-00599C?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
-
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=#47A248&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
   
 <h3 align="center">✉️ Contact ✉️</h3>
 <p align="center">
