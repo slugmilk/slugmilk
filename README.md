@@ -18,7 +18,7 @@
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
 
   
 <h3 align="center">✉️ Contact ✉️</h3>
