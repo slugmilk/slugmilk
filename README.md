@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp
 </div>
 <br>
 <h3 align="center">🛠️ Tools 🛠️</h3>
