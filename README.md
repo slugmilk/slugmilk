@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ffc0d0&height=300&section=header&text=Hi%20I'm%20Yumin!&fontSize=90&fontColor=000000&stroke=ffc0d0"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ffc0d0&height=500&section=header&text=Hi%20I'm%20Yumin!&fontSize=90&fontColor=000000&stroke=ffc0d0"/>
 <h3 align="center">💕 Tech Stack 💕</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
